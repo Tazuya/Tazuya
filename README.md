@@ -1,14 +1,8 @@
-<a href="https://yourwaifu.online"><img src="assets/banner.svg" alt="Lux Arcadia — solo developer building AI companions end to end" width="100%"></a>
+<img src="assets/banner.svg" alt="Shiba — solo developer building things end to end" width="100%">
 
-Solo developer behind **[Your Waifu](https://yourwaifu.online)** — an AI companion roleplay platform shipped as a web app, a Telegram bot, and a Telegram Mini App. One person, the whole stack: a domain-driven NestJS backend (CQRS, event-driven pipelines on BullMQ), Next.js frontends, and LLM pipelines for character memory, dialogue, and art generation.
+Solo developer. I ship products end to end: domain-driven NestJS backends (CQRS, event-driven pipelines on BullMQ), Next.js frontends, Telegram bots and Mini Apps — with LLM-powered features along the way.
 
 <img src="assets/stack.svg" alt="TypeScript · NestJS · Next.js · React · Prisma · PostgreSQL · BullMQ · Nx" width="100%">
-
-### Now
-
-- **Character memory** — episodic long-term memory: fragments → episodes → summaries and facts, one LLM pass per episode
-- **Mobile app** — Expo / React Native companion to the Mini App
-- **Web v1** — the Obsidian redesign: near-black, a single hot-rose accent, no noise
 
 ### Activity
 

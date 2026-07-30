@@ -1,0 +1,11 @@
+{
+  "name": "profile-assets",
+  "private": true,
+  "scripts": {
+    "fonts": "bash tools/fetch-fonts.sh",
+    "generate": "node tools/generate.js"
+  },
+  "dependencies": {
+    "opentype.js": "^1.3.4"
+  }
+}
