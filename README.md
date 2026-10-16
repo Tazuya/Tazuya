@@ -12,4 +12,4 @@ Most of the code lives in private product repos — the graph below is where it 
   <img src="https://streak-stats.demolab.com?user=Tazuya&mode=daily&hide_border=true&background=0a0a0c&ring=ff3d68&fire=ff3d68&currStreakNum=f5f5f7&sideNums=f5f5f7&currStreakLabel=a0a0a8&sideLabels=a0a0a8&dates=6e6e76&stroke=1e1e24" alt="Contribution streak" height="180">
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tazuya&bg_color=0a0a0c&color=a0a0a8&line=ff3d68&point=f5f5f7&area=true&area_color=ff3d68&hide_border=true&hide_title=true&title_color=f5f5f7" alt="Contribution activity" width="100%">
+<img src="assets/activity.svg" alt="Contribution activity over the last 31 days" width="100%">
